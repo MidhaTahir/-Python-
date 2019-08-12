@@ -16,7 +16,7 @@ print(len(days))
 ''' it is also possible to use tuple constructor to make tuple '''
 fruits = tuple(("mango","banana","apple"))
 print(fruits)
-'''Similarly we can use list constructor or phir usmy hm list waly operations apply krskty hain'''
+'''Similarly we can use list constructor and then we can apply all list operations'''
 days = list(days)
 days[0] = "Sunday"
 print(days)

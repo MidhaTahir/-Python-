@@ -7,4 +7,4 @@ ___
 
 #### The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.
 ---
-This repo includes all my PIAIC(AI PROGRAM) module 1 tasks.
+This repo includes all my PIAIC(AI PROGRAM) module 1 tasks related to basic Python.
